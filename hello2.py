@@ -16,4 +16,9 @@ print("con +  muestra lo agregado y - lo eliminado")
 
 #Ignorar carpeta
 print("Para ignorar se debe crear un archivo .gitignore")
+
+#Se puede navegar entre versiones con branch
+#git branch [nombre]
+#git checkout [nombre]: navega a el otro entorno
+#Así se pueden tener varias versiones de una misma carpeta.
 print("En este se poner el nombre carpetas o archivos a ignorar")
