@@ -11,3 +11,7 @@ print("Se debe tener cuidadoen vim, teclear \n",
 print(" git checkout -- [nombre]: devolver último cambio")
 print("git diff [nombre]: diferencias en cambios")
 print("con +  muestra lo agregado y - lo eliminado")
+
+#Ignorar carpeta
+print("Para ignorar se debe crear un archivo .gitignore")
+print("En este se poner el nombre carpetas o archivos a ignorar")
