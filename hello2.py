@@ -26,3 +26,7 @@ print("En este se poner el nombre carpetas o archivos a ignorar")
 #git clone [dirección]: copia todo el código guardado en repositorio
 
 #Falta revisar los pull desde el directorio
+
+#Para push se usa: git push [nombre remoto] [nombre branch]
+
+print('Prueba funcionamiento pull')
