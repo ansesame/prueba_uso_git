@@ -22,3 +22,7 @@ print("Para ignorar se debe crear un archivo .gitignore")
 #git checkout [nombre]: navega a el otro entorno
 #Así se pueden tener varias versiones de una misma carpeta.
 print("En este se poner el nombre carpetas o archivos a ignorar")
+
+#git clone [dirección]: copia todo el código guardado en repositorio
+
+#Falta revisar los pull desde el directorio
